@@ -112,6 +112,7 @@ O sistema permite o gerenciamento de:
 - Reinhold Gustav Berner | @k1ngberner
 - Hiago Costa Serafim | @HiagoSerafim
 - Andre Luiz de Souza | @andresouzs-1212
-- Felipe Braga da Silva Sampaio
+- Felipe Braga da Silva Sampaio | @Felipee-braga
+
 
 
